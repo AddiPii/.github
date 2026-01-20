@@ -260,7 +260,7 @@ Konfiguracja infrastruktury i orchestracji serwisów.
 - **TypeScript 5.2** - Statyczne typowanie
 - **Azure SDK**:
   - `@azure/cosmos` - Cosmos DB
-  - `azure-iot-device` - IoT Hub
+  - `azure-iothub` - IoT Hub
   - `azure-storage-blob` - Blob Storage
   - `azure-servicebus` - Service Bus
 - **JWT** - Token-based auth
